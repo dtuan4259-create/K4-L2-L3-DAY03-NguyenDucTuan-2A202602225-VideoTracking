@@ -2,12 +2,6 @@
 # Student release được dựng bằng instructor/tools/make_student_release.sh.
 
 # Kết quả học viên được phép commit có chủ đích.
-outputs/*
-!outputs/.gitkeep
-!outputs/*.json
-!outputs/model_clip_01.txt
-!outputs/model_bytetrack_clip_01.txt
-!outputs/model_reid_clip_01.txt
 
 # Artifact tạm và model weights.
 outputs/vis_*/
